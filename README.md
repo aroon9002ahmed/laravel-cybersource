@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installation 
 
 ```
-composer require a17mad/laravel-cybersource
+composer require aroon9002ahmed/laravel-cybersource
 ```
 
 ### If you use laravel < 5.5 you must add this to config\app.php
