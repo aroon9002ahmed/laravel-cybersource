@@ -1,4 +1,4 @@
-# Laravel Cybersource SOAP & Secure Acceptance
+# Laravel Cybersource SOAP & Secure Acceptance for laravel 8
 
 This package wraps the Cybersource Secure Acceptance & SOAP API in a convenient, easy to use package for Laravel.
 
