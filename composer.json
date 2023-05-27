@@ -48,7 +48,6 @@
                 "Cybersource": "JustGeeky\\LaravelCybersource\\Facades\\Cybersource"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 
 }
